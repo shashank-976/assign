@@ -1,0 +1,5 @@
+<<<<<<< a376debc6d09a815da39fdad5f353a9979ba0ad8
+feature1 with 1bug
+=======
+feature 1 with 1 bug feature 2 wip
+>>>>>>> feature2 wip
